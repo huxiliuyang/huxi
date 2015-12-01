@@ -1,1 +1,2 @@
-git is a good softwaregit is a good softwaregit is a good softwaregit is a good softwaregit is a good softwaregit is a good softwaregit is a good softwaregit is a good softwaregit is a good software
+git a good software
+git is free
